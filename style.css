@@ -4,3 +4,8 @@
     margin: 0;
     padding: 0;
 }
+
+/* CSS FLEXBOX STYLE */
+.col-sm {
+    background-color: greenyellow !important;
+}
