@@ -8,4 +8,7 @@
 /* CSS FLEXBOX STYLE */
 .col-sm {
     background-color: greenyellow !important;
+    padding: 7px;
+    border: 1px solid black;
+    margin-top: 10px;
 }
