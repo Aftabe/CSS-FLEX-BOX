@@ -22,9 +22,14 @@ body {
 /* about section */
 .about {
     min-height: 77vh;
-    background-image: url();
+    background-image: url(./img/joshua-sortino-LqKhnDzSF-8-unsplash\ \(1\).jpg);
     padding: 7px;
+    color: white;
 }
+
+
+
+
 
 /* Style the top navigation bar */
 .navbar {
