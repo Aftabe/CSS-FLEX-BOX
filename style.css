@@ -9,13 +9,21 @@ body {
     font-family: Arial;
 }
 
+
+
 /* Header/logo Title */
 #header {
-    padding: 10px;
+    padding: 5px;
     text-align: center;
     background: #1abc9c;
     color: white;
     font-size: 21px;
+}
+/* about section */
+.about {
+    min-height: 77vh;
+    background-image: url();
+    padding: 7px;
 }
 
 /* Style the top navigation bar */
