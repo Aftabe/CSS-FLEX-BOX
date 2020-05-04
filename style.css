@@ -1,5 +1,5 @@
 * {
-    /* margin: 0;
+    /* /* margin: 0;
     padding: 0; */
     box-sizing: border-box;
 }
@@ -21,7 +21,7 @@ body {
 }
 /* about section */
 .about {
-    min-height: 77vh;
+    min-height: 70vh;
     background-image: url(./img/joshua-sortino-LqKhnDzSF-8-unsplash\ \(1\).jpg);
     padding: 7px;
     color: white;
