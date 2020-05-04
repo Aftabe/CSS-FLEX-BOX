@@ -37,6 +37,7 @@ body {
 .navbar {
     display: flex;
     background-color: #333;
+    justify-content: center;
 }
 
 /* Style the navigation bar links */
@@ -44,7 +45,7 @@ body {
     color: white;
     padding: 14px 20px;
     text-decoration: none;
-    text-align: center;
+    /* text-align: center; */
 }
 
 /* Change color on hover */
@@ -70,7 +71,7 @@ body {
 /* Main column */
 .main {
     flex: 70%;
-    background-color: white;
+    background-color: #f1f1f1;
     padding: 20px;
 }
 
