@@ -178,7 +178,8 @@ body {
     flex-wrap: wrap;
     height: 400px;
     flex-direction: column;
-    align-items: flex-start;
+    align-items: start;
+    /* align-items: flex-start; */
     background-color: DodgerBlue;
 }
 
