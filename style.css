@@ -184,7 +184,8 @@ body {
     flex-direction: column;
     align-items: start; */
     /* align-items: flex-start; */
-    background-color: DodgerBlue;
+    background-color: rgba(219, 208, 57, 0.863);
+    padding: 20px;
 }
 
 .flex-container>div {
