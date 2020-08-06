@@ -87,7 +87,7 @@ body {
 }
 
 /* about section */
-.about {
+.about{
     min-height: 70vh;
     background-image: url(./img/joshua-sortino-LqKhnDzSF-8-unsplash\ \(1\).jpg);
     background-size: cover;
@@ -95,15 +95,11 @@ body {
     color: white;
 }
 
-
-
-
-
 /* Style the top navigation bar */
 .navbar {
     display: flex;
     background-color: #333;
-    justify-content: center;
+    justify-content: space-around;
 }
 
 /* Style the navigation bar links */
@@ -111,7 +107,6 @@ body {
     color: white;
     padding: 14px 20px;
     text-decoration: none;
-    /* text-align: center; */
 }
 
 /* Change color on hover */
