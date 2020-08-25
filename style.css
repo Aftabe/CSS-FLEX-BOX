@@ -110,6 +110,10 @@ body {
     padding: 14px 20px;
     text-decoration: none;
 }
+.navbar a:last-child{
+    background-color: rgb(160, 202, 42);
+    color: white;
+}
 
 /* Change color on hover */
 .navbar a:hover {
