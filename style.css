@@ -96,6 +96,13 @@ body {
     padding: 7px;
     color: white;
 }
+.about h1{
+    margin: 16px;
+}
+.text-box{
+    color: grey;
+    margin-top: 14px;
+}
 
 /* Style the top navigation bar */
 .navbar {
