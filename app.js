@@ -2,8 +2,8 @@
   let name,
   ouline;
   name = prompt('What\'s your name');
-  ouline = name.valueOf(name);
-  alert('Welcome ' + ouline);
+  // ouline = name.valueOf(name);
+  alert('Welcome dear users');
 }())
 
 function openNav() {
