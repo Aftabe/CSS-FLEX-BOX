@@ -245,3 +245,11 @@ background-color: black;
     width: 100%;
     height: 100%;
 }
+
+/* Setting cor the 'col' class */
+@media only screen and (max-width: 600px){
+
+    .col{
+        width: 100% !important;
+    }
+}
