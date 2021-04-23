@@ -132,6 +132,7 @@ body {
 .row {
     display: flex;
     flex-wrap: wrap;
+    padding: 3px;
     /* flex-direction: row-reverse; */
 }
 
@@ -148,6 +149,9 @@ body {
     flex: 70%;
     background-color: #f1f1f1;
     padding: 20px;
+}
+.main div{
+    margin-bottom: 20px;
 }
 
 /* colomn style */
@@ -227,7 +231,7 @@ body {
 
 .form-btn{
     color: black;
-    background-color: greenyellow;
+    background-color: rgb(31, 161, 212);
     outline: none !important;
     border: none;
     font-size: 16px;
